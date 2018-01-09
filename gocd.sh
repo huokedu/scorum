@@ -6,3 +6,4 @@ echo "Hello world"
 echo "${current_dir}"
 
 ./ciscripts/buildscript.sh
+
